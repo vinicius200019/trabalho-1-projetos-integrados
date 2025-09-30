@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+h1, h2 { color: #222; }
+nav ul { list-style: none; padding: 0; }
+nav li { display:inline; margin-right:10px; }
+table { border-collapse: collapse; width: 90%; }
+table th, table td { padding: 6px; border: 1px solid #ddd; }
+form label { display:block; margin:6px 0; }
